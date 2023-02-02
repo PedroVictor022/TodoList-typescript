@@ -1,7 +1,7 @@
 [x] - Pegar dados de entrada do usuario
-[] - Validar dados de entrada
-[] - Salvar dados de entrada em um array
-[] - Exibir os dados de entrada
-[] - Deletar tasks por ID
+[x] - Validar dados de entrada
+[x] - Salvar dados de entrada em um array
+[x] - Exibir os dados de entrada
+[x] - Deletar tasks por ID
 [] - Componentizar projeto
 [] - Estilizar projeto
