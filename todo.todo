@@ -3,5 +3,5 @@
 [x] - Salvar dados de entrada em um array
 [x] - Exibir os dados de entrada
 [x] - Deletar tasks por ID
-[] - Componentizar projeto
-[] - Estilizar projeto
+[x] - Componentizar projeto
+[x] - Estilizar projeto
